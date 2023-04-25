@@ -13,8 +13,3 @@
 13.	Diana Popa
 14.	Cristian Munteanu
 15.	Laura Danescu
-16.	Andrei Popovici
-17.	Alina Pop
-18.	Vasile Lupu
-19.	Monica Preda
-20.	Victor Stanescu
